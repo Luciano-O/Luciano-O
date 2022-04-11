@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hei, pessoal!! 👋
+
+### Tenho 21 anos, moro em São Paulo - SP, e sou um Dev apaixonado por codar, por jogos e por gatos.
+### Sejam muito bem vindos ao meu Github, mas antes de continuar, façam um carinho na Luna.
+
+<img src='https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/ROSINHA%20SITE%20Redimensionada(1).jpg' />
+
+<a href>
+  Carinho
+  ❤
+</a>
 
 <!--
 **Luciano-O/Luciano-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
