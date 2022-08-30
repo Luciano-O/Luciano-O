@@ -1,16 +1,7 @@
 ### Hei, pessoal!! 👋
 
 ### Tenho 21 anos, moro em São Paulo - SP, e sou um Dev apaixonado por codar, por jogos e por gatos.
-### Sejam muito bem vindos ao meu github, mas antes de continuar, façam um carinho na Luna.
-
-<img src='https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/ROSINHA%20SITE%20Redimensionada(1).jpg' />
-
-<a href='https://github.com/Luciano-O'>
-  Carinho
-  ❤
-</a>
-
-### Agora sim você tem permissão para navegar pelo meu github, prossiga!
+### Sejam muito bem vindos ao meu github.
 
 <h2>Tecnologias</h2>
 
