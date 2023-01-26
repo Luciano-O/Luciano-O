@@ -1,6 +1,6 @@
 ### Hei, pessoal!! 👋
 
-### Tenho 21 anos, moro em São Paulo - SP, e sou um Dev apaixonado por codar, por jogos e por gatos.
+### Tenho 22 anos, moro em São Paulo - SP, e sou um Dev apaixonado por codar, por jogos e por gatos.
 ### Sejam muito bem vindos ao meu github.
 
 <h2>Tecnologias</h2>
