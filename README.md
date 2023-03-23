@@ -13,8 +13,9 @@
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 
-<h2>Linkedin:</h2>
-<a href="https://www.linkedin.com/in/lucianoog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h2>Contato:</h2>
+<a href="https://www.linkedin.com/in/lucianoog" target="_blank"><img height='40' width='160' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:oliveiraluck78@gmail.com" target="_blank"><img height='40' width='40' margin='10' src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
 
 
 <h2>Estatísticas</h2>
